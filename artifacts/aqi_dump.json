@@ -1,0 +1,383 @@
+{
+    "status": "ok",
+    "data": [
+        {
+            "uid": 10113,
+            "aqi": "171",
+            "time": {
+                "tz": "+05:30",
+                "stime": "2024-02-06 08:00:00",
+                "vtime": 1707186600
+            },
+            "station": {
+                "name": "ITI Jahangirpuri, Delhi, Delhi, India",
+                "geo": [
+                    28.733016,
+                    77.17197
+                ],
+                "url": "delhi/iti-jahangirpuri",
+                "country": "IN"
+            }
+        },
+        {
+            "uid": 7024,
+            "aqi": "166",
+            "time": {
+                "tz": "+05:30",
+                "stime": "2024-02-06 08:00:00",
+                "vtime": 1707186600
+            },
+            "station": {
+                "name": "New Delhi US Embassy, India (नई दिल्ली अमेरिकी दूतावास)",
+                "geo": [
+                    28.63576,
+                    77.22445
+                ],
+                "url": "india/new-delhi/us-embassy",
+                "country": "IN"
+            }
+        },
+        {
+            "uid": 12466,
+            "aqi": "165",
+            "time": {
+                "tz": "+05:30",
+                "stime": "2024-02-06 08:00:00",
+                "vtime": 1707186600
+            },
+            "station": {
+                "name": "Sector-1, Noida, India",
+                "geo": [
+                    28.5898,
+                    77.3101
+                ],
+                "url": "india/noida/sector-1",
+                "country": "IN"
+            }
+        },
+        {
+            "uid": 10124,
+            "aqi": "161",
+            "time": {
+                "tz": "+05:30",
+                "stime": "2024-02-06 08:00:00",
+                "vtime": 1707186600
+            },
+            "station": {
+                "name": "Pusa, Delhi, Delhi, India",
+                "geo": [
+                    28.636997,
+                    77.172248
+                ],
+                "url": "delhi/pusa",
+                "country": "IN"
+            }
+        },
+        {
+            "uid": 2553,
+            "aqi": "160",
+            "time": {
+                "tz": "+05:30",
+                "stime": "2024-02-06 08:00:00",
+                "vtime": 1707186600
+            },
+            "station": {
+                "name": "Anand Vihar, Delhi, Delhi, India",
+                "geo": [
+                    28.6508,
+                    77.3152
+                ],
+                "url": "delhi/anand-vihar",
+                "country": "IN"
+            }
+        },
+        {
+            "uid": 10118,
+            "aqi": "159",
+            "time": {
+                "tz": "+05:30",
+                "stime": "2024-02-06 08:00:00",
+                "vtime": 1707186600
+            },
+            "station": {
+                "name": "ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",
+                "geo": [
+                    28.672114,
+                    77.313832
+                ],
+                "url": "delhi/iti-shahdra--jhilmil-industrial-area",
+                "country": "IN"
+            }
+        },
+        {
+            "uid": 10121,
+            "aqi": "158",
+            "time": {
+                "tz": "+05:30",
+                "stime": "2024-02-06 08:00:00",
+                "vtime": 1707186600
+            },
+            "station": {
+                "name": "Sonia Vihar Water Treatment Plant DJB, Delhi, Delhi, India",
+                "geo": [
+                    28.710066,
+                    77.24622
+                ],
+                "url": "delhi/sonia-vihar-water-treatment-plant-djb",
+                "country": "IN"
+            }
+        },
+        {
+            "uid": 2556,
+            "aqi": "157",
+            "time": {
+                "tz": "+05:30",
+                "stime": "2024-02-06 08:00:00",
+                "vtime": 1707186600
+            },
+            "station": {
+                "name": "R.K. Puram, Delhi, Delhi, India",
+                "geo": [
+                    28.5648,
+                    77.1744
+                ],
+                "url": "delhi/r.k.-puram",
+                "country": "IN"
+            }
+        },
+        {
+            "uid": 10111,
+            "aqi": "156",
+            "time": {
+                "tz": "+05:30",
+                "stime": "2024-02-06 08:00:00",
+                "vtime": 1707186600
+            },
+            "station": {
+                "name": "Major Dhyan Chand National Stadium, Delhi, Delhi, India",
+                "geo": [
+                    28.612498,
+                    77.237388
+                ],
+                "url": "delhi/major-dhyan-chand-national-stadium",
+                "country": "IN"
+            }
+        },
+        {
+            "uid": 10114,
+            "aqi": "155",
+            "time": {
+                "tz": "+05:30",
+                "stime": "2024-02-06 08:00:00",
+                "vtime": 1707186600
+            },
+            "station": {
+                "name": "Delhi Institute of Tool Engineering, Wazirpur, Delhi, Delhi, India",
+                "geo": [
+                    28.700505,
+                    77.165603
+                ],
+                "url": "delhi/delhi-institute-of-tool-engineering--wazirpur",
+                "country": "IN"
+            }
+        },
+        {
+            "uid": 10112,
+            "aqi": "154",
+            "time": {
+                "tz": "+05:30",
+                "stime": "2024-02-06 08:00:00",
+                "vtime": 1707186600
+            },
+            "station": {
+                "name": "PGDAV College, Sriniwaspuri, Delhi, Delhi, India",
+                "geo": [
+                    28.566827,
+                    77.251418
+                ],
+                "url": "delhi/pgdav-college--sriniwaspuri",
+                "country": "IN"
+            }
+        },
+        {
+            "uid": 10115,
+            "aqi": "153",
+            "time": {
+                "tz": "+05:30",
+                "stime": "2024-02-06 08:00:00",
+                "vtime": 1707186600
+            },
+            "station": {
+                "name": "Satyawati College, Delhi, Delhi, India",
+                "geo": [
+                    28.69572,
+                    77.181295
+                ],
+                "url": "delhi/satyawati-college",
+                "country": "IN"
+            }
+        },
+        {
+            "uid": 2554,
+            "aqi": "153",
+            "time": {
+                "tz": "+05:30",
+                "stime": "2024-02-06 08:00:00",
+                "vtime": 1707186600
+            },
+            "station": {
+                "name": "Mandir Marg, Delhi, Delhi, India",
+                "geo": [
+                    28.6341,
+                    77.2005
+                ],
+                "url": "delhi/mandir-marg",
+                "country": "IN"
+            }
+        },
+        {
+            "uid": 10704,
+            "aqi": "127",
+            "time": {
+                "tz": "+05:30",
+                "stime": "2024-02-06 08:00:00",
+                "vtime": 1707186600
+            },
+            "station": {
+                "name": "Mother Dairy Plant, Parparganj, Delhi, Delhi, India",
+                "geo": [
+                    28.620171,
+                    77.287705
+                ],
+                "url": "delhi/mother-dairy-plant--parparganj",
+                "country": "IN"
+            }
+        },
+        {
+            "uid": 10705,
+            "aqi": "-",
+            "time": {
+                "tz": "+05:30",
+                "stime": "2024-02-06 08:00:00",
+                "vtime": 1707186600
+            },
+            "station": {
+                "name": "Jawaharlal Nehru Stadium, Delhi, Delhi, India",
+                "geo": [
+                    28.582846,
+                    77.234366
+                ],
+                "url": "delhi/jawaharlal-nehru-stadium",
+                "country": "IN"
+            }
+        },
+        {
+            "uid": 8180,
+            "aqi": "-",
+            "time": {
+                "tz": "+05:30",
+                "stime": "2020-09-20 20:00:00",
+                "vtime": 1600612200
+            },
+            "station": {
+                "name": "IHBAS, Delhi, Delhi, India",
+                "geo": [
+                    28.68189167,
+                    77.30485833
+                ],
+                "url": "delhi/ihbas",
+                "country": "IN"
+            }
+        },
+        {
+            "uid": 10122,
+            "aqi": "-",
+            "time": {
+                "tz": "+05:30",
+                "stime": "2018-04-20 00:00:00",
+                "vtime": 1524162600
+            },
+            "station": {
+                "name": "Lodhi Road, Delhi, Delhi, India",
+                "geo": [
+                    28.589701,
+                    77.221917
+                ],
+                "url": "delhi/lodhi-road",
+                "country": "IN"
+            }
+        },
+        {
+            "uid": 10125,
+            "aqi": "-",
+            "time": {
+                "tz": "+05:30",
+                "stime": "2018-04-20 00:00:00",
+                "vtime": 1524162600
+            },
+            "station": {
+                "name": "Burari Crossing, Delhi, Delhi, India",
+                "geo": [
+                    28.725646,
+                    77.203384
+                ],
+                "url": "delhi/burari-crossing",
+                "country": "IN"
+            }
+        },
+        {
+            "uid": 10127,
+            "aqi": "-",
+            "time": {
+                "tz": "+05:30",
+                "stime": "2018-04-13 11:00:00",
+                "vtime": 1523597400
+            },
+            "station": {
+                "name": "North Campus, Delhi, Delhi, India",
+                "geo": [
+                    28.687716,
+                    77.210232
+                ],
+                "url": "delhi/north-campus",
+                "country": "IN"
+            }
+        },
+        {
+            "uid": 2558,
+            "aqi": "-",
+            "time": {
+                "tz": "+05:30",
+                "stime": "1970-01-01 00:00:00",
+                "vtime": 0
+            },
+            "station": {
+                "name": "Civil Lines, Delhi, Delhi, India",
+                "geo": [
+                    28.6787,
+                    77.2262
+                ],
+                "url": "delhi/civil-lines",
+                "country": "IN"
+            }
+        },
+        {
+            "uid": 3715,
+            "aqi": "-",
+            "time": {
+                "tz": "+05:30",
+                "stime": "1970-01-01 00:00:00",
+                "vtime": 0
+            },
+            "station": {
+                "name": "ITO, Delhi, Delhi, India",
+                "geo": [
+                    28.628577,
+                    77.241036
+                ],
+                "url": "delhi/ito",
+                "country": "IN"
+            }
+        }
+    ]
+}
